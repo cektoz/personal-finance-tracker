@@ -27,7 +27,7 @@ To set up the application locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/cektoz/personal-finance-tracker.git
    cd personal-finance-tracker
 
 2. **Install dependencies:**
